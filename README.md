@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Aydin 👋
 
-<!--
-**aydinbattaglia/aydinbattaglia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT Architect focused on enterprise architecture governance , cloud infrastructure, and solution design.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🏗️ Designing scalable solutions across cloud and network environments (Azure, SD-WAN)
+- 📐 Working within enterprise architecture (LeanIX, governance, assurance)
+- 🤖 Contributing to AI policy and standards in a corporate environment
+- 🔁 Building reusable architecture patterns to improve consistency and delivery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+- Cloud: Microsoft Azure  
+- Networking: Cisco, Juniper, SD-WAN  
+- Tools: LeanIX, ServiceNow, Git, Linux  
+- Code: Python (automation & scripting)
+
+## 📚 Current Focus
+- Enterprise architecture best practices  
+- AI governance and responsible AI adoption  
+- Automation and improving engineering workflows  
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/aydinbattaglia
+
+---
